@@ -1,0 +1,16 @@
+Data Analyst (Fresher) - Job Description
+
+We are looking for a Data Analyst to join our analytics team. The ideal
+candidate has strong fundamentals in Python and SQL, and is comfortable
+working across the full data pipeline.
+
+Requirements:
+- Proficiency in Python, Pandas, and NumPy
+- Strong SQL skills for querying and data extraction
+- Experience with data visualization tools such as Tableau or Power BI
+- Understanding of machine learning and NLP fundamentals is a plus
+- Familiarity with REST API and FastAPI for data services
+- Experience with Excel and exploratory data analysis (EDA)
+- Bonus: exposure to named entity recognition or information extraction
+- Knowledge of Docker and AWS is a plus but not required
+- Good communication and teamwork skills

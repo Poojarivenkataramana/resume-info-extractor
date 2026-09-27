@@ -1,0 +1,38 @@
+Venkataramana Poojari
+Python Developer | Data Analyst
+Email: poojarivenkataramana@gmail.com
+Phone: +91 98765 43210
+LinkedIn: linkedin.com/in/venkat-poojari
+GitHub: github.com/Poojarivenkataramana
+Dharmavaram, Andhra Pradesh, India
+
+SUMMARY
+Self-taught Python Developer and Data Analyst with 1 year experience turning
+messy, real-world datasets into clear, actionable insights. Skilled in
+Python, SQL, Pandas, NumPy, Machine Learning, NLP, and Information Extraction.
+
+EXPERIENCE
+Data Analyst Intern, Bluestock
+Jun 2026 - Aug 2026
+Supported data analytics and engineering workflows on financial and business
+datasets, building analytical frameworks, optimizing SQL queries, and
+creating visualizations using Matplotlib and Tableau.
+
+EDUCATION
+Sri Venkatesa Perumal College of Engineering & Technology
+Bachelor of Technology, Electronics and Communication Engineering
+CGPA: 7.43 / 10
+
+PROJECTS
+Resume Information Extraction Tool
+Built an NLP pipeline using spaCy and regex to extract structured fields
+(contact info, skills, education) from unstructured resume text, with a
+Streamlit interface for live demos.
+
+Amazon Sales Dashboard
+Analyzed multi-variable e-commerce data using Python and Pandas to surface
+rating anomalies and product performance trends, visualized with Matplotlib.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Machine Learning, NLP, Named Entity Recognition,
+Data Visualization, Excel, Tableau, FastAPI, Git, REST API, Prompt Engineering
